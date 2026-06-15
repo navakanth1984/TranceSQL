@@ -30,7 +30,7 @@ nav:
   - Connectors Guide: connectors.md
   - Telemetry & Feedback: telemetry.md
   - Developer & Release Guide: development.md
-  - ACDLC Blueprint: ../ACDLC.md
+  - ACDLC Blueprint: ACDLC.md
 
 plugins:
   - search
